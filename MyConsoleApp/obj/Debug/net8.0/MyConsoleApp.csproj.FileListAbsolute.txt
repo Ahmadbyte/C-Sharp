@@ -12,3 +12,4 @@
 /Users/shariqueahmad/Documents/Projects/C Sharp /MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
 /Users/shariqueahmad/Documents/Projects/C Sharp /MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
 /Users/shariqueahmad/Documents/Projects/C Sharp /MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
+/Users/shariqueahmad/Documents/Projects/C Sharp /MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
